@@ -61,7 +61,7 @@ Application
 ========================================================
 
 The app I produced can be found here: 
-<https://nickuk.shinyapps.io/Shiny-Application-and-Reproducible-Pitch/>
+<https://dr-girish-tere.shinyapps.io/Titanic-survival/>
 
 You can choose the following: 
 
