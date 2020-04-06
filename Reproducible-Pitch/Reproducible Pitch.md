@@ -63,6 +63,8 @@ Application
 
 The app I produced can be found here: 
 <https://dr-girish-tere.shinyapps.io/Titanic-survival/>
+Reproducible Pitch here:
+<https://rpubs.com/girishtere/ReproduciblePitch>
 
 You can choose the following: 
 
